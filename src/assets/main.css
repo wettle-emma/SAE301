@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&display=swap');
+
+@layer base {
+  li {
+    @apply list-none;
+  }
+}

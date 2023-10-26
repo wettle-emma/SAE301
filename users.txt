@@ -1,0 +1,6 @@
+pocketbase : emma.wettle@gmail.com
+mot de passe : pocketbase
+
+user 1 : emmawtl Reglisse
+user 2 : starhollow starhollow
+user 3 : pascalred chouchou
